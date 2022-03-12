@@ -1,4 +1,4 @@
-# MERCHANT DUPLICATION FINDER
+# Computer Vision Projects
 This project contains some notebooks on computer vision projects.
 
 ## 1. Installation of packages
